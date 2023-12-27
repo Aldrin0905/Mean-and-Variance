@@ -1,4 +1,7 @@
 #  Mean and variance of a discrete  distribution
+NAME : ALDRIN.S
+
+REG NO : 212223240005
 
 
 # Aim : 
